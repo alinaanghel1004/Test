@@ -68,7 +68,7 @@
 {
     UITableViewCell *cell = [[UITableViewCell alloc] init];
     cell.textLabel.text = @"dwsDS";//[_array objectAtIndex:[indexPath row]];
-    cell.backgroundColor = [UIColor redColor];
+    cell.backgroundColor = [UIColor blackColor];
     
     return  cell;
 }
