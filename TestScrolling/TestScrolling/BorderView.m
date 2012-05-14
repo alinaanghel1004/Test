@@ -19,7 +19,7 @@
         
         self.layer.borderColor = [UIColor yellowColor].CGColor;
         self.layer.borderWidth = 3.0f;
-        self.backgroundColor = [UIColor greenColor];
+        self.backgroundColor = [UIColor magentaColor];
     }
     return self;
 }
